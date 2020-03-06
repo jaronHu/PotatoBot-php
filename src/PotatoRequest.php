@@ -20,7 +20,7 @@ class PotatoRequest
      * @var $potato Potato
      */
     private static $potato = null;
-    private static $apiUrl = 'https://api.sydney.im:8443';
+    private static $apiUrl = 'https://api.rct2008.com:8443';
     /**
      * Guzzle Client object
      * @var $client Client
